@@ -35,3 +35,5 @@ screenshots/
 *.sln
 *.sw?
 
+
+.vercel
